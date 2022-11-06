@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://johannes-skog.github.io/sitemap.xml

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pages on Johannes Skog</title>
+    <link>https://johannes-skog.github.io/page/</link>
+    <description>Recent content in Pages on Johannes Skog</description>
+    <image>
+      <url>https://johannes-skog.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://johannes-skog.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://johannes-skog.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>https://johannes-skog.github.io/page/aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://johannes-skog.github.io/page/aboutme/</guid>
+      <description>To be filled</description>
+    </item>
+    
+  </channel>
+</rss>
