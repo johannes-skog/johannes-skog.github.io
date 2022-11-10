@@ -16,7 +16,7 @@
       <pubDate>Sun, 06 Nov 2022 20:52:02 +0100</pubDate>
       
       <guid>https://johannes-skog.github.io/post/autoencoders/</guid>
-      <description>In this post I will speak about Autoencoders and Variational Autoencoders, where the former is used to compress some data into a dense representation that can be used in various applications, the latter extends Autoencodes with additional properties which makes it possible to generate data that looks to follow the original data distribution. Both of these fall into the class of Latent Variable Models.
+      <description>In this post I will write about Autoencoders and Variational Autoencoders, where the former is used to compress some data into a dense representation that can be used in various applications, the latter extends Autoencodes with additional properties which makes it possible to generate data that looks to follow the original data distribution. Both of these fall into the class of Latent Variable Models.
 Latent Variable Models Latent Variable Models is a class of models that maps an observable variable $X$ to a latent (hidden/unknown) variable $Z$.</description>
     </item>
     
