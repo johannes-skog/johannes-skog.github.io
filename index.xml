@@ -11,21 +11,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 06 Nov 2022 20:52:02 +0100</lastBuildDate><atom:link href="https://johannes-skog.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Autoencoders &amp; Variational Autoencoder</title>
+      <link>https://johannes-skog.github.io/post/autoencoders/</link>
+      <pubDate>Sun, 06 Nov 2022 20:52:02 +0100</pubDate>
+      
+      <guid>https://johannes-skog.github.io/post/autoencoders/</guid>
+      <description>In this post I will speak about Autoencoders and Variational Autoencoders, where the former is used to compress some data into a dense representation that can be used in various applications, the latter extends Autoencodes with additional properties which makes it possible to generate data that looks to follow the original data distribution. Both of these fall into the class of Latent Variable Models.
+Latent Variable Models Latent Variable Models is a class of models that maps an observable variable $X$ to a latent (hidden/unknown) variable $Z$.</description>
+    </item>
+    
+    <item>
       <title>Diffusion model</title>
       <link>https://johannes-skog.github.io/post/diffusion/</link>
       <pubDate>Sun, 06 Nov 2022 20:52:02 +0100</pubDate>
       
       <guid>https://johannes-skog.github.io/post/diffusion/</guid>
-      <description>test image</description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>https://johannes-skog.github.io/post/test/</link>
-      <pubDate>Sun, 06 Nov 2022 20:00:42 +0100</pubDate>
-      
-      <guid>https://johannes-skog.github.io/post/test/</guid>
-      <description></description>
+      <description> </description>
     </item>
     
     <item>
