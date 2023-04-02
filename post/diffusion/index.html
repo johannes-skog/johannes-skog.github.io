@@ -74,7 +74,7 @@
 <h1 class=post-title>
 Diffusion model
 </h1>
-<div class=post-meta><span title="2022-11-15 20:52:02 +0100 +0100">November 15, 2022</span>&nbsp;·&nbsp;8 min&nbsp;·&nbsp;1534 words&nbsp;·&nbsp;Johannes Skog
+<div class=post-meta><span title="2022-11-15 20:52:02 +0100 CET">November 15, 2022</span>&nbsp;·&nbsp;8 min&nbsp;·&nbsp;1534 words&nbsp;·&nbsp;Johannes Skog
 </div>
 </header>
 <div class=post-content><p>In this post I will write about diffusion models, diffusion model has gotten an upswing with <a href=https://cdn.openai.com/papers/dall-e-2.pdf>recent successes e.g. (DALL-E)</a>. Diffusion models falls in the class of generative models, compared to GANs they are much easier to train and do not require the adversarial setup that can be tricky to get right. There are however some drawbacks, while GANs can produce a one-time inference to get the final results, the diffusion model must traverse a chain of multiple (in some cases $> 4000$) inference steps in order to end up with the final results. The concept of diffusion models goes back further than 2020 when <a href=https://arxiv.org/pdf/2006.11239>Ho et al. 2020 article</a> was released, however in the article the authors make some key improvements that later sparked renewed interest in them.</p>
