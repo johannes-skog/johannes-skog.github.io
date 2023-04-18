@@ -9,7 +9,18 @@
       <link>https://johannes-skog.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 19 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://johannes-skog.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://johannes-skog.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Training &amp; Deploying LLMs: A Step-by-Step Guide</title>
+      <link>https://johannes-skog.github.io/post/sentiment-deployment/</link>
+      <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://johannes-skog.github.io/post/sentiment-deployment/</guid>
+      <description>In this post, I will go through all the necessary steps to set up and train a state-of-the-art LLM for sentiment analysis (and many other NLP applications since the steps are almost the same) on Twitter data. I will cover the entire pipeline, from creating the training dataset to deploying the model using TorchServe and Kubernetes on Azure.
+See github for the code
+Setting up the Training Pipeline Setting Up the Environment First, we need to set up our environment to run the training and deployment steps.</description>
+    </item>
+    
     <item>
       <title>Reacher - reach out to a remote..</title>
       <link>https://johannes-skog.github.io/post/reacher/</link>
