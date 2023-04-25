@@ -16,7 +16,7 @@
       <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>https://johannes-skog.github.io/post/llm-chat/</guid>
-      <description>In this post, I will go through the process of training a large language model on chat data, specifically using the LLaMA-7b model. The fine-tuned model has been shown to perform on par or better than most Hugging Face variants when trained on cleaned alpaca data. I will go into the benefits of using DeepSpeed for training and how LORA (Low Order Rank Adaptation) can be used in combination with DeepSpeed to be very efficient during supervised fine-tuning on large models.</description>
+      <description>In this post, I will go through the process of training a large language model on chat data, specifically using the LLaMA-7b model. The fine-tuned model has been shown to perform on par or better than most Hugging Face variants when trained on cleaned alpaca data. I will go into the benefits of using DeepSpeed for training and how LORA (Low-Rank Adaptation) can be used in combination with DeepSpeed to be very efficient during supervised fine-tuning on large models.</description>
     </item>
     
     <item>
